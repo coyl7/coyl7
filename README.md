@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Yuyu Liu from Taiwan. I speak both Chinese and English. 
-- 👀 I’m interested in Data Science and Machine Learning. 
-- 🌱 I’m currently studying Data Science at Loughborough University in UK.
-- 💞️ I’m looking for internship in data science related field.
+- 👋 Hi, this is Yuyu Liu, I'm a student currently studying data science at Loughborough University. 
+- 👀 Will graduate in October 2022.  
+- 🌱 Currently looking for job in data science related field.
+- 💞️ In the resposity will demonstrate projects and courseworks during my study.
 - 📫 How to reach me: macy199317@gmail.com
 
 <!---
