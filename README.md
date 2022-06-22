@@ -1,8 +1,9 @@
-- 👋 Hi, this is Yuyu Liu, I'm a student currently studying data science at Loughborough University. 
-- 👀 Will graduate in October 2022.  
-- 🌱 Currently looking for job in data science related field.
-- 💞️ In the resposity will demonstrate projects and courseworks during my study.
-- 📫 How to reach me: macy199317@gmail.com
+- 👋 Hi, this is Yuyu, I am currently a student studying MSc in data science at Loughborough University. 
+- 👀 I will finish my study in September 2022.  
+- 🌱 I am currently open for positions in data science related field.
+- 💞️ In the resposity includes projects and courseworks completed during my study.
+- 📫 How to reach me: Y.Liu22-21@student.lboro.ac.uk
+
 
 <!---
 coyl7/coyl7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
