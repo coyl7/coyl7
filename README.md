@@ -2,7 +2,7 @@
 - 👀 I will finish my study in September 2022.  
 - 🌱 I am currently open for positions in data science related field.
 - 💞️ In the resposity includes projects and courseworks completed during my study.
-- 📫 How to reach me: Y.Liu22-21@student.lboro.ac.uk
+- 📫 How to reach me: yuyu.liu1859@gmail.com
 
 
 <!---
